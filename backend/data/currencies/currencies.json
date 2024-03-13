@@ -1,0 +1,70 @@
+{
+    "currencies": [
+      {
+        "id": "BTC",
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "price": 49876.32,
+        "change": 1.23,
+        "volume": 250000,
+        "marketCap": 937852000000
+      },
+      {
+        "id": "ETH",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "price": 1556.78,
+        "change": -0.56,
+        "volume": 75000,
+        "marketCap": 178459000000
+      },
+      {
+        "id": "XRP",
+        "name": "Ripple",
+        "symbol": "XRP",
+        "price": 0.43,
+        "change": 0.05,
+        "volume": 40000,
+        "marketCap": 19487500000
+      },
+      {
+        "id": "LTC",
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "price": 178.25,
+        "change": -0.89,
+        "volume": 30000,
+        "marketCap": 11856700000
+      },
+      {
+        "id": "ADA",
+        "name": "Cardano",
+        "symbol": "ADA",
+        "price": 1.23,
+        "change": 0.12,
+        "volume": 20000,
+        "marketCap": 39678400000
+      },
+
+      {
+        "id": "BNB",
+        "name": "Binance Coin",
+        "symbol": "BNB",
+        "price": 256.78,
+        "change": -0.34,
+        "volume": 18000,
+        "marketCap": 39875600000
+      },
+
+      {
+        "id": "BCH",
+        "name": "Bitcoin Cash",
+        "symbol": "BCH",
+        "price": 497.36,
+        "change": 1.45,
+        "volume": 22000,
+        "marketCap": 9264530000
+      }
+    ]
+  }
+  
